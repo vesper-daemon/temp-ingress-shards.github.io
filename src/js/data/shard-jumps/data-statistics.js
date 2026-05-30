@@ -1,6 +1,6 @@
 import * as Instant from "temporal-polyfill/fns/instant";
 import * as ZonedDateTime from "temporal-polyfill/fns/zoneddatetime";
-import { printTable, calculateShardActionSchedule, formatZonedDateTimeWithMs, formatDurationMs } from "./data-helpers.js";
+import { calculateShardActionSchedule, formatZonedDateTimeWithMs, formatDurationMs } from "./data-helpers.js";
 
 /**
  * Calculates statistics for the entire season/series.
@@ -10,7 +10,6 @@ import { printTable, calculateShardActionSchedule, formatZonedDateTimeWithMs, fo
  */
 export function calculateStatisticsForSeason(seriesHistory, seriesConfig, blueprints) {
     const sites = Object.values(seriesHistory);
-    console.log(`ℹ️ Calculating statistics for ${seriesConfig.name}, ${sites.length} sites...`);
     const allStats = [];
     sites.forEach(site => {
         const siteStats = calculateSiteStatistics(site, seriesConfig, blueprints);
@@ -18,7 +17,6 @@ export function calculateStatisticsForSeason(seriesHistory, seriesConfig, bluepr
             allStats.push(...siteStats);
         }
     });
-    console.log(`ℹ️ Statistics complete.\n`);
     return allStats;
 }
 
@@ -30,7 +28,6 @@ export function calculateStatisticsForSeason(seriesHistory, seriesConfig, bluepr
  */
 function calculateSiteStatistics(site, seriesConfig, blueprints) {
     if (site.waves?.length > 0 && site.geocode) {
-        console.log(`Calculating statistics for site ${site.geocode.id}...`);
 
         const siteEventType = site.geocode.eventType;
         const componentConfig = seriesConfig.shardComponents?.find(et => et.eventType === siteEventType);
@@ -155,11 +152,6 @@ function calculateSiteStatistics(site, seriesConfig, blueprints) {
                 totalActualActions += shard.history.length;
                 totalExpectedActions += expectedWaveSchedule.length;
             }
-        }
-
-        if (tableData.length > 0) {
-            printTable(tableData.map(({ Season, Site, ...rest }) => rest));
-            console.log(`Total Actions: ${totalActualActions} / Expected: ${totalExpectedActions}\n`);
         }
 
         return tableData;

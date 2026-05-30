@@ -14,6 +14,7 @@ const REPORTS_DIR = path.join(__dirname, '..', 'gen', 'reports');
 
 async function runValidator() {
     try {
+        const startTime = performance.now();
         const verbose = process.argv.includes('--verbose');
         console.log(`ℹ️ Running shard jump integrity validator... (verbose: ${verbose})`);
 
@@ -120,7 +121,8 @@ async function runValidator() {
         // Write master JSON summary
         await fs.writeFile(path.join(REPORTS_DIR, 'validation-summary.json'), JSON.stringify(summary, null, 2), 'utf-8');
 
-        console.log('ℹ️ Validation complete and reports written under gen/reports/.\n');
+        const endTime = performance.now();
+        console.log(`✅ Validation complete and reports written to ${REPORTS_DIR} in ${((endTime - startTime) / 1000).toFixed(2)} seconds.\n`);
     } catch (error) {
         console.error('❌ Error during validation:', error);
         process.exit(1);
