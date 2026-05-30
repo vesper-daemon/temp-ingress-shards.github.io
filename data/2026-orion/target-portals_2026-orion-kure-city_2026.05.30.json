@@ -1,0 +1,665 @@
+{
+  "siteId": "2026-orion-kure-city",
+  "artifact": [
+    {
+      "id": "targetres",
+      "name": "Target RES",
+      "target": [
+        {
+          "portalInfo": {
+            "title": "くつろぎカレーease eat",
+            "latE6": 34233062,
+            "lngE6": 132622829
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "串山公園のロケット滑り台",
+            "latE6": 34225516,
+            "lngE6": 132552787
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "日鉄アクアパーク",
+            "latE6": 34255208,
+            "lngE6": 132562836
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "海の欄干アート",
+            "latE6": 34245241,
+            "lngE6": 132545226
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "登町公園",
+            "latE6": 34244170,
+            "lngE6": 132570870
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "豊栄南公園",
+            "latE6": 34229153,
+            "lngE6": 132603197
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "JR広駅",
+            "latE6": 34228679,
+            "lngE6": 132628504
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "「常磐橋」銘板石",
+            "latE6": 34241577,
+            "lngE6": 132614402
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "呉本通り周辺地図",
+            "latE6": 34249012,
+            "lngE6": 132571879
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "呉青山通りの藤棚",
+            "latE6": 34238326,
+            "lngE6": 132563199
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "錨のモザイクアート",
+            "latE6": 34226900,
+            "lngE6": 132550468
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "４丁目公園のカラフルシーソー",
+            "latE6": 34247163,
+            "lngE6": 132537947
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "串山公園",
+            "latE6": 34226066,
+            "lngE6": 132554154
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "忠勇護国・殉職者慰霊碑",
+            "latE6": 34255840,
+            "lngE6": 132561115
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "呉東ロータリークラブ創立二十五周年記念植樹",
+            "latE6": 34231382,
+            "lngE6": 132626106
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "本通第一公園",
+            "latE6": 34248868,
+            "lngE6": 132573644
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "呉市二川まちづくりセンター",
+            "latE6": 34244719,
+            "lngE6": 132545389
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "豊栄南公園の藤棚",
+            "latE6": 34229289,
+            "lngE6": 132602932
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "Cannon Relic and Plaque",
+            "latE6": 34225578,
+            "lngE6": 132549155
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "呉海軍病院跡石碑",
+            "latE6": 34239135,
+            "lngE6": 132564288
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "広大新開郵便局",
+            "latE6": 34230325,
+            "lngE6": 132624463
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "照宮殿下御降誕記念",
+            "latE6": 34253236,
+            "lngE6": 132561779
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "古新開第1公園",
+            "latE6": 34241539,
+            "lngE6": 132619042
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "木製ピクニックテーブルエリア（瀬戸見第一公園内）",
+            "latE6": 34247080,
+            "lngE6": 132533943
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "旧日本海軍工廠監視壕（旧帝国海軍トーチカ）",
+            "latE6": 34225462,
+            "lngE6": 132551628
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "マリンパーク 川原石",
+            "latE6": 34244236,
+            "lngE6": 132546588
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "オークアリーナ「理想」",
+            "latE6": 34232024,
+            "lngE6": 132626984
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "あがプラザリングモニュメント",
+            "latE6": 34236947,
+            "lngE6": 132600388
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "寺本公園のパーゴラ",
+            "latE6": 34246757,
+            "lngE6": 132574270
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "アクアパーク案内板",
+            "latE6": 34255860,
+            "lngE6": 132561873
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "横路公園",
+            "latE6": 34240947,
+            "lngE6": 132612417
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "呉市長迫自治会集会所",
+            "latE6": 34248395,
+            "lngE6": 132577733
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "第四十回広子ども祭タイムカプセル建設記念(石柱)",
+            "latE6": 34230873,
+            "lngE6": 132625248
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "アレイからすこじま公園",
+            "latE6": 34226081,
+            "lngE6": 132549726
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "お地蔵さま",
+            "latE6": 34235900,
+            "lngE6": 132567962
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "切株のトイレ",
+            "latE6": 34249557,
+            "lngE6": 132533641
+          },
+          "targetAlignment": "RESISTANCE",
+          "observedAt": 1780126320000
+        }
+      ]
+    },
+    {
+      "id": "targetenl",
+      "name": "Target ENL",
+      "target": [
+        {
+          "portalInfo": {
+            "title": "大新開公園",
+            "latE6": 34236511,
+            "lngE6": 132621204
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "宮原2丁目公園",
+            "latE6": 34236143,
+            "lngE6": 132565287
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "寺本公園-遊園地建設記念碑",
+            "latE6": 34246398,
+            "lngE6": 132574953
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "広中町区画整理記念碑",
+            "latE6": 34229067,
+            "lngE6": 132627533
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "昭和町れんが倉庫群",
+            "latE6": 34225661,
+            "lngE6": 132549586
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "瀬戸見第２公園",
+            "latE6": 34249566,
+            "lngE6": 132533684
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780117320000
+        },
+        {
+          "portalInfo": {
+            "title": "呉中央六郵便局",
+            "latE6": 34250963,
+            "lngE6": 132566864
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "呉市総合体育館",
+            "latE6": 34231925,
+            "lngE6": 132626672
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "和庄公園",
+            "latE6": 34243848,
+            "lngE6": 132568639
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "憩いの広場",
+            "latE6": 34231192,
+            "lngE6": 132600063
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "旧帝国海軍呉海軍工廠監視壕",
+            "latE6": 34224119,
+            "lngE6": 132552457
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "風見鶏とステンドグラスのある東屋",
+            "latE6": 34245392,
+            "lngE6": 132545470
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780119120000
+        },
+        {
+          "portalInfo": {
+            "title": "広駅前時計塔",
+            "latE6": 34228796,
+            "lngE6": 132628688
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "呉市海岸4丁目公園",
+            "latE6": 34247369,
+            "lngE6": 132538033
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "本田為次郎君頌徳碑",
+            "latE6": 34236007,
+            "lngE6": 132566771
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "World War Era Crane Relic",
+            "latE6": 34225385,
+            "lngE6": 132548600
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "古新開第4公園",
+            "latE6": 34240060,
+            "lngE6": 132620912
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "動物たちの演奏会",
+            "latE6": 34253201,
+            "lngE6": 132561475
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780120920000
+        },
+        {
+          "portalInfo": {
+            "title": "宮原9丁目公園",
+            "latE6": 34228260,
+            "lngE6": 132557413
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "ふるさとの森",
+            "latE6": 34231684,
+            "lngE6": 132626495
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "長迫ふれあい広場",
+            "latE6": 34248660,
+            "lngE6": 132577552
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "呉市電の変電所、車庫跡地",
+            "latE6": 34236624,
+            "lngE6": 132600234
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "マリンパーク川原石の時計",
+            "latE6": 34244680,
+            "lngE6": 132546668
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "宮川食堂",
+            "latE6": 34254315,
+            "lngE6": 132563798
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780122720000
+        },
+        {
+          "portalInfo": {
+            "title": "手づくり郷土賞",
+            "latE6": 34239096,
+            "lngE6": 132564004
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "地蔵(弥生新開踏切)",
+            "latE6": 34231423,
+            "lngE6": 132617190
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "潜水艦桟橋",
+            "latE6": 34226438,
+            "lngE6": 132550029
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "呉広本町郵便局",
+            "latE6": 34238585,
+            "lngE6": 132622081
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "晴海町自治會舘",
+            "latE6": 34246775,
+            "lngE6": 132532949
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "足の裏健康器具",
+            "latE6": 34253172,
+            "lngE6": 132562185
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780124520000
+        },
+        {
+          "portalInfo": {
+            "title": "豊栄南公園の遊具",
+            "latE6": 34229314,
+            "lngE6": 132603663
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "岡田川樋門跡",
+            "latE6": 34225599,
+            "lngE6": 132555254
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "船のアート南西",
+            "latE6": 34245377,
+            "lngE6": 132545402
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "三本筒のモニュメント",
+            "latE6": 34232458,
+            "lngE6": 132626934
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "和庄公園 地蔵",
+            "latE6": 34243551,
+            "lngE6": 132568651
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        },
+        {
+          "portalInfo": {
+            "title": "シシンヨーアクアパーク 周辺案内サイン",
+            "latE6": 34255432,
+            "lngE6": 132562512
+          },
+          "targetAlignment": "ENLIGHTENED",
+          "observedAt": 1780126320000
+        }
+      ]
+    }
+  ]
+}
