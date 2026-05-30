@@ -14,6 +14,7 @@ const REPORTS_DIR = path.join(__dirname, '..', 'gen', 'reports');
 
 async function runStatistics() {
     try {
+        const startTime = performance.now();
         console.log(`ℹ️ Calculating shard jump statistics...`);
 
         const content = await fs.readFile(PROCESSED_DATA_PATH, 'utf-8');
@@ -26,7 +27,6 @@ async function runStatistics() {
             if (!processedData) {
                 continue;
             }
-            console.log(`\nℹ️ Statistics for ${seriesConfig.name}:`);
             const seriesStats = calculateStatisticsForSeason(processedData, seriesConfig, eventBlueprints);
             if (seriesStats) {
                 allStats.push(...seriesStats);
@@ -37,9 +37,11 @@ async function runStatistics() {
         await fs.mkdir(REPORTS_DIR, { recursive: true });
 
         // Write CSV report
-        await fs.writeFile(path.join(REPORTS_DIR, 'site-statistics.csv'), convertToCsv(allStats), 'utf-8');
+        const reportPath = path.join(REPORTS_DIR, 'site-statistics.csv');
+        await fs.writeFile(reportPath, convertToCsv(allStats), 'utf-8');
 
-        console.log('\nℹ️ Statistics calculation complete and report written to gen/reports/site-statistics.csv.');
+        const endTime = performance.now();
+        console.log(`\n✅ Statistics calculation complete and report written to ${reportPath} in ${((endTime - startTime) / 1000).toFixed(2)} seconds.`);
     } catch (error) {
         console.error('❌ Error calculating statistics:', error);
         process.exit(1);

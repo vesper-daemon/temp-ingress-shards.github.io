@@ -83,4 +83,4 @@ export function addCustomData(processedData) {
     for (const [siteId, siteData] of Object.entries(data)) {
         seriesCache.custom.data[siteId] = siteData;
     }
-}
+}
